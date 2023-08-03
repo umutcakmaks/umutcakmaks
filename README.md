@@ -1,5 +1,15 @@
 # 💫 About Me:
-Kırklareli üniversitesi 4. sınıf öğrencisiyim. Haziran 2023'de mezun olacağım. Yazılım mühendisliği bölümünü şuan 3.47/4 gano ile bitirmekteyim. Yazılım sektöründe mobil uygulama geliştiricisi olarak ilerlemeye karar verdim ve bu yüzden React Native öğrendim. React Native ile Kontrolser firması için mobil uygulaması geliştirdim. Uygulamanın her şeyini kendim yaptım. Backend için Nodejs üzerinden API yazdım ve Heroku üzerinden yayınladım. Şuanda ise üç kişi bitirme projesi için kendi fikrimiz olan mobil uygulamayı Flutter ile geliştirmekteyiz. Onun dışında farklı hobilerim sayesinde Adobe Premier Pro, Adobe Photoshop ve Adobe Illustrator kullanmasını biliyorum.
+#### EN
+In June 2023, I graduated from Kırklareli University, Department of Software Engineering with 3.49/4 GANO. I decided to progress as a mobile application developer in the software industry, so I learned React Native and Flutter. I developed a mobile application for Kontrolser company with React Native. I did everything for the application myself. I wrote an API for the backend via Nodejs and published it on Heroku. Currently, we are actively developing the application, which is our own project with two partners. Kendi projemizi ise Flutter ve Bloc State management kullanarak geliştirmekteyiz. Apart from that, I know how to use Adobe Premier Pro, Adobe Photoshop and Adobe Illustrator since I have been shooting videos on my own (Umut Çakmak / 27.5k) Youtube channel since I was 15 years old. Finally, I will complete my military service on September 10, 2023 and I will be able to fully devote myself to this sector.
+
+<br>I am currently actively looking for a job as a Flutter mobile application developer. You can send your e-mail to umutcakmakcontact@gmail.com for job offers.
+
+<br><b>My career goal is to be an inspiration for young people who want to be a mobile developer at my current age in the future.</b>
+
+#### TR
+Haziran 2023'de Kırklareli üniversitesi yazılım mühendisliği bölümünden 3.49/4 GANO ile mezun oldum. Yazılım sektöründe mobil uygulama geliştiricisi olarak ilerlemeye karar verdim ve bu yüzden React Native ve Flutter öğrendim. React Native ile Kontrolser firması için mobil uygulama geliştirdim. Uygulamanın her şeyini kendim yaptım. Backend için Nodejs üzerinden API yazdım ve Heroku üzerinden yayınladım. Şuanda ise iki ortakla birlikte kendi projemiz olan uygulamayı aktif olarak geliştirmekteyiz. Kendi projemizi ise Flutter ve Bloc State management kullanarak geliştirmekteyiz. Onun dışında 15 yaşımdan beri kendi (Umut Çakmak / 27.5k) Youtube kanalıma videolar çektiğim için Adobe Premier Pro, Adobe Photoshop ve Adobe Illustrator kullanmasını biliyorum. Son olarak ise 10 Eylül 2023 tarihinde askerliğimi tamamlamış olacağım ve tamamen bu sektöre kendimi adayabileceğim.
+
+<br>Şuan aktif olarak Flutter mobil uygulama geliştiricisi olarak iş aramaktayım. İş teklifleri için umutcakmakcontact@gmail.com adresime mailinizi yollayabilirsiniz.
 
 <br><b>Kariyer hedefim ise ileride şuan bulunduğum yaştaki mobil geliştirici olmak isteyen gençler için ilham kaynağı olmak.<b/>
 
